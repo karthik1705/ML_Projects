@@ -1,1 +1,1 @@
-# Repositories to keep track of certain experiments in the ML / Gen AI space
+# Repositories to keep track of certain experiments in ML
